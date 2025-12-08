@@ -4,13 +4,6 @@
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🐼┃备用公众号┃我不是肥猫",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
