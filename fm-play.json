@@ -24,7 +24,7 @@
       "type": 3,
       "api": "csp_Living",
       "playerType": 2,
-      "ext": "https://api.muxia.fun"
+      "ext": "https://bt.muxia.fun"
     },
     {
       "key": "潮流",
@@ -185,25 +185,12 @@
       "api": "csp_Tvyb"
     },
     {
-      "key": "csp_Qiyou",
-      "name": "🥝┃奇优┃影视",
-      "type": 3,
-      "api": "csp_Qiyou"
-    },
-    {
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
       "ext": "https://ev2089.zxbwv.com"
-    },
-    {
-      "key": "csp_Quanwk",
-      "name": "👀┃全看┃影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com"
     },
     {
       "key": "csp_J",
