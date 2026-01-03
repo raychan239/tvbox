@@ -168,6 +168,13 @@
       "ext": "https://shdy5.us"
     },
     {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2
+    },
+    {
       "key": "csp_LiteApple",
       "name": "🍎┃苹果┃影视",
       "type": 3,
