@@ -334,7 +334,7 @@
     },
     {
       "key": "bilibiliys",
-      "name": " 🅱‍哔哩NEW影视🅱‍",
+      "name": "🅱‍哔哩NEW影视🅱‍",
       "type": 3,
       "api": "csp_WexNewBiLiYSGuard",
       "searchable": 1,
@@ -345,7 +345,7 @@
     },
     {
       "key": "bilibili",
-      "name": " 🅱‍哔哩NEW合集🅱‍",
+      "name": "🅱‍哔哩NEW合集🅱‍",
       "type": 3,
       "api": "csp_WexNewBiLiGuard",
       "searchable": 1,
@@ -356,7 +356,7 @@
     },
     {
       "key": "biliych",
-      "name": " 🅱‍哔哩NEW歌曲🅱‍",
+      "name": "🅱‍哔哩NEW歌曲🅱‍",
       "type": 3,
       "api": "csp_WexNewBiLiGuard",
       "searchable": 1,
@@ -799,7 +799,7 @@
         "www.maolvys.com"
       ],
       "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
       ]
     }
   ],
@@ -814,14 +814,14 @@
       "type": 0,
       "playerType": 2,
       "url": "https://bc.188766.xyz/?ip=&json=true",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
+      "ua": "bingcha/1.1(mianfeifenxiang)"
     }
   ],
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
       "header": {
-        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+        "User-Agent": "bingcha/1.1(mianfeifenxiang)"
       }
     }
   ]
