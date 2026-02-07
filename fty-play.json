@@ -472,7 +472,7 @@
     },
     {
       "key": "fan",
-      "name": "导航www.饭太硬.com",
+      "name": "导航 www.饭太硬.com",
       "type": 3,
       "api": "csp_XPathGuard",
       "searchable": 1,
@@ -499,7 +499,7 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
-      "name": "冰茶",
+      "name": "冰 茶",
       "type": 0,
       "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
       "timeout": 10,
