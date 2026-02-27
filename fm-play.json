@@ -533,15 +533,15 @@
       "name": "ii",
       "type": 0,
       "playerType": 2,
-      "url": "https://iptv.catvod.com/list.php?token=1df512078c1f055cad257368ae2b353b5e565169c907a8aabcef9c327b39edb3",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=5803665715&sign=65177c4b80fc8438071a048ac5aec7980991f960675556c5c93cdb3c5a6f7082e86f69204a098d26a1bc196b6c880d567ed4a2e65c270ce37ca71e387de6289dbf6a784a3c5e9c&auth_token=b6823db883fc12f91cf1127973951993",
+      "ua": "okHttp/Mod-1.5.0.0"
     }
   ],
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
       "header": {
-        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+        "User-Agent": "okHttp/Mod-1.5.0.0"
       }
     }
   ],
