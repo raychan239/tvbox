@@ -1,0 +1,17 @@
+{
+  "urls":[
+    {
+      "name":"饭太硬-点播",
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/refs/heads/main/fty-play.json"
+    },
+    {
+      "name":"肥猫-点播",
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/refs/heads/main/fm-play.json"
+    },
+    {
+      "name":"王二小-网盘",
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/refs/heads/main/wex-pan.json"
+    }
+    
+  ]
+}
