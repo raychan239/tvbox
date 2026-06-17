@@ -2,15 +2,15 @@
   "urls":[
     {
       "name":"饭太硬-点播",
-      "url":"https://gitea.20200126.xyz/raychan/tvbox-repo/raw/branch/main/fty-play.json"
+      "url":"https://raw.githubusercontent.com/raychan239/tvbox-repo/main/fty-play.json"
     },
     {
       "name":"肥猫-点播",
-      "url":"https://gitea.20200126.xyz/raychan/tvbox-repo/raw/branch/main/fm-play.json"
+      "url":"https://raw.githubusercontent.com/raychan239/tvbox-repo/main/fm-play.json"
     },
     {
       "name":"王二小-网盘",
-      "url":"https://gitea.20200126.xyz/raychan/tvbox-repo/raw/branch/main/wex-pan.json"
+      "url":"https://raw.githubusercontent.com/raychan239/tvbox-repo/main/wex-pan.json"
     }
     
   ]
