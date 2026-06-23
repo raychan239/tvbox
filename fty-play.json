@@ -1,5 +1,5 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg;md5;c1bb8166a36306e250f791897717deb0",
+  "spider": "https://zl.wpscdn.cn/2026/06/22/space_img/0e2eae28-5d76-49f5-9592-5422e5c08856.jpg;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃不卡",
+      "name": "👒原创┃不卡",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -63,6 +63,17 @@
       "api": "csp_NewCzGuard",
       "timeout": 10,
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -132,26 +143,15 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
-      "key": "剧圈",
-      "name": "🐻剧圈┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
-    },
-    {
       "key": "视界",
-      "name": "🍙视界┃多线",
+      "name": "🌸茉莉┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
     {
       "key": "播客",
@@ -165,15 +165,15 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
     },
     {
-      "key": "柚子",
-      "name": "🐟柚子┃多线",
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv"
+      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
       "key": "奥特",
@@ -252,7 +252,7 @@
       }
     },
     {
-      "key": "超全",
+      "key": "吃瓜",
       "name": "🏐吃瓜┃看球",
       "type": 3,
       "api": "csp_LiveGzGuard",
@@ -502,7 +502,8 @@
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-    "fiizvfck.top=fan.cloudflare.182682.xyz"
+    "fiizvfck.top=fan.cloudflare.182682.xyz",
+    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
   ],
   "lives": [
     {

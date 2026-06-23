@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829",
+  "spider": "https://nos.netease.com/ysf/7bae0e28de9ef4f11206482b70524912.jar;md5;c0b7317763e162949ba0a829c21edb12",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubana",
-      "name": "🐮【更新日期:20260614】🐮",
+      "name": "🐮【更新日期:20260621】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -197,10 +197,10 @@
       "changeable": 1
     },
     {
-      "key": "AnimeMoDu",
-      "name": "🤡魔都┃动漫🤡",
+      "key": "AnimeFanShu",
+      "name": "🤡番薯┃动漫🤡",
       "type": 3,
-      "api": "csp_AnimeMoDuGuard",
+      "api": "csp_AnimeFanShuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -225,6 +225,14 @@
       "name": "🤡喵呜┃动漫🤡",
       "type": 3,
       "api": "csp_AnimeMiaoWuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AnimeMoDu",
+      "name": "🤡魔都┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeMoDuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -447,6 +455,17 @@
       }
     },
     {
+      "key": "SportFeiQiu",
+      "name": "🌐飞球┃体育🌐",
+      "type": 3,
+      "api": "csp_SportFeiQiuGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "SportGuaZi",
       "name": "🌐瓜子┃体育🌐",
       "type": 3,
@@ -475,6 +494,17 @@
       "api": "csp_SportKanqiuGuard",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "SportKaFei",
+      "name": "🌐咖啡┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKaFeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "SportWwe",
@@ -588,34 +618,10 @@
       "changeable": 0
     },
     {
-      "key": "SoTjSo",
-      "name": "🎠太极┃综合🎠",
-      "type": 3,
-      "api": "csp_SoTjSoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoAiPan",
-      "name": "🎠给力┃综合🎠",
-      "type": 3,
-      "api": "csp_SoAiPanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "So97So",
       "name": "🎠九七┃综合🎠",
       "type": 3,
       "api": "csp_So97SoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoZhaoPanSo",
-      "name": "🎠找盘┃综合🎠",
-      "type": 3,
-      "api": "csp_SoZhaoPanSoGuard",
       "searchable": 1,
       "changeable": 0
     },
