@@ -1,11 +1,11 @@
 {
-  "spider": "https://img2.gelonghui.com/library/94420-24a57fc2-4260-4865-8f7c-4fedd9ff8b5f.png;md5;944207855ef6e709a0050614bdc02c92",
+  "spider": "https://img2.gelonghui.com/library/7abd3-c77d7d3f-c3f1-4edf-91d8-6b57bec20e9c.png;md5;7abd3338bf2a350c94672c258590ccea",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://hello.xn--z7x900a.net/fm.gif",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼┃公众号：我不是肥猫┃",
+      "name": "🐼┃公众号：熊猫是只肥猫┃",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -66,6 +66,13 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+    },
+    {
+      "key": "韩圈",
+      "name": "🥽┃韩圈┃APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": " http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
       "key": "蔬菜",

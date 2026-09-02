@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/08/18/fda2afceeb158aa34ac538f26ebd6638.jpg;md5;5bd4dcbbbcc4cd71d86a8f2e61ab0d2b",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -16,7 +16,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260819】🐮",
+      "name": "🐮【更新日期:20260901】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -311,14 +311,6 @@
       "name": "🤡次元┃动漫🤡",
       "type": 3,
       "api": "csp_AnimeCiYuanChengGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeAiHuazi",
-      "name": "🤡花海┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiHuaziGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -857,7 +849,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
