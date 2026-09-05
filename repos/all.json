@@ -1,15 +1,15 @@
 {
   "urls": [
     {
-      "name": "肥猫-全部",
+      "name": "肥猫-点播+网盘",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fm-all.json"
     },
     {
-      "name": "饭太硬-全部",
+      "name": "饭太硬-点播+网盘",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fty-all.json"
     },
     {
-      "name": "王二小-全部",
+      "name": "王二小-点播+网盘",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/wex-all.json"
     }
   ]

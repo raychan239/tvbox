@@ -1,15 +1,15 @@
 {
   "urls": [
     {
-      "name": "肥猫-原始源",
+      "name": "肥猫",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fm-sources.json"
     },
     {
-      "name": "饭太硬-原始源",
+      "name": "饭太硬",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fty-sources.json"
     },
     {
-      "name": "王二小-原始源",
+      "name": "王二小",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/wex-sources.json"
     }
   ]
