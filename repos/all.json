@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "name": "肥猫-点播",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fm-play.json"
+      "name": "肥猫-全部",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fm-all.json"
     },
     {
-      "name": "饭太硬-点播",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fty-play.json"
+      "name": "饭太硬-全部",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/fty-all.json"
     },
     {
-      "name": "王二小-网盘",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/wex-pan.json"
+      "name": "王二小-全部",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/raychan239/tvbox/main/subs/wex-all.json"
     }
   ]
 }
