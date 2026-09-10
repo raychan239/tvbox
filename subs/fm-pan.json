@@ -1,15 +1,8 @@
 {
-  "spider": "https://img2.gelonghui.com/library/6b3f3-d6b2d2c3-70cd-47a6-8632-6096809927d4.png;md5;6b3f30565b0bb99d486b40049bcd4802",
+  "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "http://hello.xn--z7x900a.net/fm.gif",
+  "logo": "http://feimao.pro/fm.gif",
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "🐼┃公众号：熊猫是只肥猫┃",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
     {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
@@ -51,11 +44,13 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "http://tvpanpan.site",
+          "http://xiaocge.fun",
           "http://feimo.fun",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "http://fmao.shop",
           "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop",
-          "https://www.xiaocge.fun"
+          "http://www.xiaocgege.shop"
         ],
         "threadinfo": {
           "chunksize": 512,
@@ -72,11 +67,12 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://www.zhizhen8.click",
           "https://pan.mihdr.top",
           "https://www.zhizhen1.top",
           "https://www.mihdr.top",
-          "https://www.miqk.cc"
+          "https://www.miqk.cc",
+          "https://www.zhizhenpan.com",
+          "https://www.zhizhen8.click"
         ],
         "url_key": "Netfixtv2",
         "threadinfo": {
@@ -131,7 +127,7 @@
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -139,7 +135,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+      "ext": "./js/兔小贝.js"
     },
     {
       "key": "push_agent",
@@ -251,16 +247,13 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
+      "url": "./lives/Kimentanm.txt"
     },
     {
       "name": "develop202",
       "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "url": "./lives/develop202.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "headers": [
