@@ -1,8 +1,15 @@
 {
-  "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
+  "spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "http://feimao.pro/fm.gif",
+  "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🐼┃公众号：熊猫是只肥猫┃",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
     {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
@@ -136,15 +143,6 @@
         "ratio": 1.597
       },
       "ext": "./js/兔小贝.js"
-    },
-    {
-      "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": ".json/txt/ken.txt"
     }
   ],
   "parses": [
