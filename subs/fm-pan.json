@@ -4,6 +4,13 @@
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "🐼┃公众号：熊猫是只肥猫┃",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
@@ -236,13 +243,15 @@
   ],
   "lives": [
     {
-      "name": "Gather「果」",
-      "type": 3,
-      "url": "https://tv.tmxk.kdns.fr/yplrnuc7",
-      "epg": "https://material.1989.click/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "./lives/Kimentanm.txt"
+    },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "./lives/develop202.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "headers": [
