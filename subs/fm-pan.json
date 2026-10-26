@@ -1,6 +1,6 @@
 {
-  "spider": "https://img2.gelonghui.com/library/2d842-41dd0bc6-bca5-4d62-9dab-9becd4621bd0.png;md5;2d842238d97d949fef5c679cb876f81d",
-  "danmaku": "http://xn--z7x900a.net/danmu5266/auto.php?name={name}&episode={episode}",
+  "spider": "https://img2.gelonghui.com/library/7bfc9-59cca2d0-d2b6-469c-b02d-a876987822fc.png;md5;7bfc9f9c0b3ed23d0ea38400ac9d356b",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
