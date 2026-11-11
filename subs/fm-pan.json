@@ -1,9 +1,15 @@
 {
-  "spider": "https://img2.gelonghui.com/library/6a396-4e09c48e-c9bc-4313-b788-8d5120f90e5d.png;md5;6a396033ae45efee57ba789f91d7123e",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+  "spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🐼┃公众号：熊猫是只肥猫┃",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
     {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
@@ -58,6 +64,28 @@
           "threads": 16
         },
         "url_key": "Duopan2"
+      }
+    },
+    {
+      "key": "csp_Netfixtv",
+      "name": "💌┃️至臻┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://pan.mihdr.top",
+          "https://www.zhizhen1.top",
+          "https://www.mihdr.top",
+          "https://www.miqk.cc",
+          "https://www.zhizhenpan.com",
+          "https://www.zhizhen8.click"
+        ],
+        "url_key": "Netfixtv2",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
       }
     },
     {
@@ -215,13 +243,15 @@
   ],
   "lives": [
     {
-      "name": "Gather「果」",
-      "type": 3,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://material.1989.click/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "./lives/Kimentanm.txt"
+    },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "./lives/develop202.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "headers": [
