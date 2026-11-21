@@ -1,7 +1,6 @@
 {
   "spider": "https://img2.gelonghui.com/library/73c42-e8ed973d-4e97-42d9-b486-1a55057741ed.png;md5;73c42d5c2f86efd6ddc6c85fd286069c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
     {
@@ -137,17 +136,6 @@
       "type": 3,
       "api": "csp_Gz360",
       "playerType": 2
-    },
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.4kcz.com"
     },
     {
       "key": "csp_SP360",
@@ -485,7 +473,7 @@
   ],
   "rules": [
     {
-      "name": "♻️量非",
+      "name": "??量非",
       "hosts": [
         "lz",
         "vip.lz",
@@ -501,7 +489,7 @@
       ]
     },
     {
-      "name": "♻️索尼",
+      "name": "??索尼",
       "hosts": [
         "suonizy",
         "qrssv.com"
@@ -512,7 +500,7 @@
       ]
     },
     {
-      "name": "♻️乐视",
+      "name": "??乐视",
       "hosts": [
         "leshiyun"
       ],
@@ -521,7 +509,7 @@
       ]
     },
     {
-      "name": "♻️优质",
+      "name": "??优质",
       "hosts": [
         "yzzy",
         "playback"
@@ -534,7 +522,7 @@
       ]
     },
     {
-      "name": "♻️快看",
+      "name": "??快看",
       "hosts": [
         "kuaikan",
         "vip.kuaikan"
@@ -546,7 +534,7 @@
       ]
     },
     {
-      "name": "♻️360",
+      "name": "??360",
       "hosts": [
         "lyhuicheng"
       ],
@@ -556,7 +544,7 @@
       ]
     },
     {
-      "name": "♻️开源棋牌",
+      "name": "??开源棋牌",
       "hosts": [
         "askzycdn",
         "jkunbf",
@@ -569,7 +557,7 @@
       ]
     },
     {
-      "name": "♻️暴风",
+      "name": "??暴风",
       "hosts": [
         "bfengbf.com",
         "bfzy",
@@ -581,7 +569,7 @@
       ]
     },
     {
-      "name": "♻️农民",
+      "name": "??农民",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -590,7 +578,7 @@
       ]
     },
     {
-      "name": "♻️火山",
+      "name": "??火山",
       "hosts": [
         "huoshan.com"
       ],
@@ -599,7 +587,7 @@
       ]
     },
     {
-      "name": "♻️抖音",
+      "name": "??抖音",
       "hosts": [
         "douyin.com"
       ],
@@ -608,7 +596,7 @@
       ]
     },
     {
-      "name": "♻️磁力",
+      "name": "??磁力",
       "hosts": [
         "magnet"
       ],
@@ -619,7 +607,7 @@
       ]
     },
     {
-      "name": "♻️饭团点击",
+      "name": "??饭团点击",
       "hosts": [
         "dadagui",
         "freeok",
@@ -630,7 +618,7 @@
       ]
     },
     {
-      "name": "♻️毛驴点击",
+      "name": "??毛驴点击",
       "hosts": [
         "www.maolvys.com"
       ],
@@ -638,5 +626,6 @@
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
     }
-  ]
+  ],
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}"
 }
